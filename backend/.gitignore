@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+
+# connection with db 
+/knexfile.js
+
+/readm.txt
